@@ -1,5 +1,4 @@
 
-```markdown
 <p align="center">
   <a href="https://filamentphp.com" target="_blank">
     <img src="https://filamentphp.com/images/logo.svg" width="200" alt="Filament Logo">
