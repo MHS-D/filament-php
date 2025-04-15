@@ -1,6 +1,3 @@
-Thanks! Since you're using **Laravel 10** with **Filament v3**, here's an updated version of your `README.md` tailored specifically for that setup:
-
----
 
 ```markdown
 <p align="center">
